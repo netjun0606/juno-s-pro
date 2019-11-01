@@ -9,3 +9,5 @@
    1. 로지스틱 회귀
    1. Sigmoid Function
    
+   
+   
